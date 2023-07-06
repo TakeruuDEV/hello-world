@@ -1,2 +1,2 @@
 # hello-world
-Exercícios propostos no curso de back-end pela Cubos Academy.
+Repositório criado com o propósito de fazer os exercícios propostos no curso de back-end pela Cubos Academy.
